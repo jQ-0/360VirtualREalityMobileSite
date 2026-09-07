@@ -175,7 +175,8 @@ h4 {
     .table tbody td:nth-child(2):before { content: "Georgia "; }
     .table tbody td:nth-child(3):before { content: "Missouri "; }
     .table tbody td:nth-child(4):before { content: "Ohio "; }
-    .table tbody td:nth-child(5):before { content: "West Virginia "; }
+    .table tbody td:nth-child(5):before { content: "Oklahoma "; }
+    .table tbody td:nth-child(6):before { content: "West Virginia "; }
     
     /* Style the labels */
     .table tbody td:before {
@@ -279,7 +280,8 @@ h4 {
     .table tbody td:nth-child(2):before { content: "Georgia: "; }
     .table tbody td:nth-child(3):before { content: "Missouri: "; }
     .table tbody td:nth-child(4):before { content: "Ohio: "; }
-    .table tbody td:nth-child(5):before { content: "West Virginia: "; }
+    .table tbody td:nth-child(5):before { content: "Oklahoma: "; }
+    .table tbody td:nth-child(6):before { content: "West Virginia: "; }
     
     /* Hide empty cells on mobile */
     .table tbody td:empty {
@@ -316,9 +318,9 @@ h4 {
         font-family: 'Mick-CasterScript', sans-serif;
         font-size: 0.9rem;
     }
+}
 
 /* For images in modal */    
-}
 img{
     border-radius: 15px;
 }
